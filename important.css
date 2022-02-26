@@ -1,0 +1,5 @@
+h1{
+    color: red !important; 
+     
+} /* Aşşağıda farklı yerlerde h1 color değiştirilmeye çalışsa bile !important özelliği ile onun önemli olduğunu tanımladık bu yüzden 
+      asla değişmeyecektir.*/
